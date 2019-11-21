@@ -1,1 +1,1 @@
-from quantmetrics.datasets.stata_dataset import stata_dataset 
+from quantmetrics.datasets.stata_datasets import webuse 
