@@ -1,0 +1,15 @@
+*~
+*.egg/
+*.pyc
+*.pyo
+*.cpp
+*.so
+*.dylib
+*.egg-info
+venv
+build
+\#*\#
+.\#*
+dist/
+.idea/
+.cache/

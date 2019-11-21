@@ -1,1 +1,1 @@
-#from quantmetrics.core.frame import *
+from quantmetrics.frame import DataFrame
