@@ -1,1 +1,2 @@
 from quantmetrics.discrete_choice.logistic_regression import logistic
+from quantmetrics.discrete_choice.logistic_regression import cmmixlogit
