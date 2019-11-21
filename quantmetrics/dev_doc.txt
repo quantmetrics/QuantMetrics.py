@@ -1,0 +1,9 @@
+- 自作ライブラルへのパスの通し方．
+Anaconda環境
+http://imaimamu.com/archives/1530
+https://qiita.com/derodero24/items/6e2d809ceb6360211bd2
+
+必要に応じてシンボリックリンクとかを使うといいかも．
+
+- データセット
+https://www.stata-press.com/data/r13/r.html

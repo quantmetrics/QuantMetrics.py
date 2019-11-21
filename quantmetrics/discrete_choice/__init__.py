@@ -1,0 +1,1 @@
+from quantmetrics.discrete_choice.logistic_regression import logistic
