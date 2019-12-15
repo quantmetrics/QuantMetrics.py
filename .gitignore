@@ -13,3 +13,6 @@ build
 dist/
 .idea/
 .cache/
+*.ipynb_checkpoints
+*.data
+*data/
