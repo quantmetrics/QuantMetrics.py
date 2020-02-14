@@ -5,8 +5,10 @@
 *.cpp
 *.so
 *.dylib
-*.egg-info
+*.egg-info/
 venv
+env/
+.python-version
 build
 \#*\#
 .\#*
